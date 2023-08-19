@@ -63,7 +63,7 @@ function playplayplay() {
 }
 
 function preload() {
-    moosic = loadSound('/music/music.mp3');
+    moosic = loadSound('/music.mp3');
 }
 
 function gotPoses(results) {
