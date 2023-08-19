@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body {
+    background-size: cover;
+}
+.heading {
+    font-size: 40px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 5px;
+}
+
+.note {
+    font-size: 23px;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: normal;
+}
+
+.spe {
+    float: left;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.vol {
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+#play_button {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    width: 130px;
+    height: 65px;
+}
+
+canvas {
+    border: 10px double red;
+    border-radius: 5%;
+    margin-top: 100px;
+}
